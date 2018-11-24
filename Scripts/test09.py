@@ -28,3 +28,6 @@ class Test05():
         print("用户名为：",username)
         print("密码为：",password)
         print("预期结果为：",expect_result)
+
+    def test_009(self):
+        pass
